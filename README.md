@@ -3,4 +3,4 @@
 <br>
 This is my first Git Repository.
 <br>
-Author- Sachin Jaiswal
+Author- Sachin (chaurasia)
